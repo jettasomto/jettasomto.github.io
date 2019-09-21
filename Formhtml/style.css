@@ -12,7 +12,7 @@ h2{
 }
 aside {
 background-image: url(singnup.jpeg);
-background-size: 510px 650px;
+background-size: 100% auto;
 flex-basis: 40%;
 
 border-top-right-radius:10px; 
